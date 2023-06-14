@@ -12,7 +12,7 @@ const App = () => {
         
         return(
           <div>
-              <h1> Button clicked {count} </h1>
+              <p> Button clicked {count} </p>
               <button onClick={countClicks}>Click me</button>
           </div>
         )
