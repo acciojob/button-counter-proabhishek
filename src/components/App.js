@@ -8,7 +8,7 @@ const App = () => {
        function countClicks(){
           setCount(count+1)
        }
-  
+
         
         return(
           <div>
