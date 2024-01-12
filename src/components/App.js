@@ -7,7 +7,7 @@ const App = () => {
 
   return (
     <div>
-       <p>Button clicked {count} time</p>
+       <p>Button clicked {count} times</p>
        <button onClick={()=>setCount(count+1)}>Click Me</button>
     </div>
   )
